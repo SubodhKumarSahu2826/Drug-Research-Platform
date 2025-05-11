@@ -35,8 +35,6 @@
 The platform is designed to help researchers accelerate drug discovery by leveraging cutting-edge AI models for protein folding, docking, and molecular dynamics.
 
 
-<a href="https://discord.com/channels/1221368900579754074/1221368901162631243" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e"  /></a>
-
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - **Next.js**
@@ -116,5 +114,5 @@ Users can upload PDB files for protein structures, which will then be processed 
 
 Using molecular docking algorithms, the system predicts how small molecules (such as drug candidates) bind to protein targets.
 
-## <a name="more">🚀 More</a>
+
 
