@@ -15,9 +15,7 @@
 
   <h3 align="center">ProteinBind</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@albertmends" target="_blank"><b>Your YouTube Channel</b></a>. Join the community!
-    </div>
+   
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -126,10 +124,3 @@ Using molecular docking algorithms, the system predicts how small molecules (suc
 
 ## <a name="more">🚀 More</a>
 
-Stay tuned for more updates and features! Join our community, contribute to the repository, and follow along with our detailed tutorials.
-
-## 📞 **Contact & Community**
-
-If you have any questions or need support, feel free to join our Discord server or contact us through GitHub Discussions.
-
-<a href="https://discord.com/channels/1221368900579754074/1221368901162631243" target="_blank">Join Discord</a> | <a href="https://github.com/mendsalbert/proteinbind/discussions" target="_blank">GitHub Discussions</a>
