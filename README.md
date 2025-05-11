@@ -1,7 +1,7 @@
 <div align="center">
   <br />
-    <
-      <img src="./public/drug_research.jpg" alt="ProteinBind Project Banner">
+    ![Uploading image.png…]()
+
     
   
   <br />
